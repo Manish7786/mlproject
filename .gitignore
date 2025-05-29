@@ -138,6 +138,7 @@ venv.bak/
 mlproject_venv/
 .artifacts
 artifacts/
+.artifacts/
 
 # Spyder project settings
 .spyderproject
